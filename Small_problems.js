@@ -164,9 +164,16 @@ for(let i=1;i<=num;i++){
 }
 console.log(count);*/
 
-//prime numbers
+//Count of input
+/*let x="rexronald10"
+console.log(x.length);
+*/
 
 
-
-
+// Capitalize First Letter of a String
+/*function capitalizeFirst(str) {
+  return str.charAt(0).toUpperCase() + str.slice(1);
+}
+console.log(capitalizeFirst("hello world"));
+*/
 
